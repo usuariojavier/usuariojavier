@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador junior con gran pasión por la  tecnología.<br>   Siempre aprendiendo y evolucionando . <br>  Me apasiona colaborar en proyectos open source y estoy<br> buscando nuevas oportunidades para poner en práctica mis habilidades.<br>Me encanta resolver problemas y crear soluciones creativas a través del código.<br>una mente siempre abierta, busco nuevos desafíos en el mundo de la programación.  <br> Soy un autodidacta entusiasta, constantemente aprendiendo nuevas habilidades y tecnologías. <br>¡Listo para colaborar en proyectos innovadores! <br>   ¡Contacta conmigo si quieres trabajar en un proyecto juntos!
+Desarrollador junior con gran pasión por la  tecnología.<br>   Siempre aprendiendo y evolucionando . <br>  Me gusta colaborar en proyectos open source y estoy<br> buscando nuevas oportunidades para poner en práctica mis habilidades.<br>Me encanta resolver problemas y crear soluciones creativas a través del código.<br>una mente siempre abierta, busco nuevos desafíos en el mundo de la programación.  <br> Soy un autodidacta entusiasta, constantemente aprendiendo nuevas habilidades y tecnologías. <br>¡Listo para colaborar en proyectos innovadores! <br>   ¡Contacta conmigo si quieres trabajar en un proyecto juntos!
 
 
 ## 🌐 Socials:
